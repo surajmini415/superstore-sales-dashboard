@@ -18,3 +18,14 @@ Interactive sales dashboard built using Tableau Public and Excel.
 ## Dashboard Preview
 
 ![Dashboard](dashboard.png)
+
+## Excel Analysis
+
+### Region-wise Sales
+![Region Sales](excel-region-sales.png)
+
+### Monthly Sales Trend
+![Monthly Sales](excel-monthly-sales.png)
+
+### Top Products Analysis
+![Top Products](excel-top-products.png)
